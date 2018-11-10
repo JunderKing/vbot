@@ -2,8 +2,6 @@
 
 namespace Hanson\MyVbot;
 
-use Hanson\Vbot\Support\File;
-
 class Observer
 {
     public static function setQrCodeObserver($qrCodeUrl)
